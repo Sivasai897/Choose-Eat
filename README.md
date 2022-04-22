@@ -1,33 +1,24 @@
-# ChooseEat
-In the era of information technology, humans tend to develop better and more convenient lifestyles. Wireless technology has already become an important application that is usually integrated into a wide range of devices and other technologies. The enhancements provided by the wireless technology give ease of control to the users.
+# Choose to Eat
+Humans tend to establish better and more comfortable lifestyles in the age of information technology. Wireless technology has already established itself as a critical component of a wide range of gadgets and other technologies. Users benefit from the benefits given by wireless technology because they have more control.
 
-Nowadays, almost all electronic devices are equipped with wireless technology. This fact shows the necessity and benefits provided by this technology. Therefore, we intend to develop an application which is called ChooseEat.
+Wireless technology is now present in practically all modern gadgets. This information demonstrates the technology's importance and benefits. As a result, we plan to create an application called ChooseEat.
 
-This application was written in Python using the Django framework to prepare an application that gives a realistic feel to users.
-
-To work upon the code, we used Visual Studio Code as a text editor and compiler.
-
+This application was created in Python using the Django framework to provide users with a genuine experience.We utilised Visual Studio Code as a text editor and compiler to work on the code.
 # What is ChooseEat
-The ChooseEat website allows users to order food from local restaurants or food cooperatives. As with ordering consumer goods online, many of these also allow
-customers to maintain accounts with them to make ordering easier in the future. A customer will search for a favorite restaurant, usually filtered via type of cuisine and
-choose from available items, and place the order.
-
+Users may order meals from local eateries or food cooperatives using the ChooseEat website. Many of these, like purchasing consumer products online, allow users to create accounts with them to make future ordering easier. A consumer will look for a preferred restaurant, generally categorised by cuisine, and then choose items from the menu before placing an order.
 # Anent
-The main objective of ChooseEat is to manage the details of Food items, Categories, Customer, orders, Confirm orders. It manages all the information about Food Items,
-Payments, Confirm orders. The project is totally built at the administrative end and thus only the administrator is guaranteed access to add restaurants to reduce disciplinary
-actions. The purpose of the project is to build an application program to reduce the manual work for managing the Food Item, Category, Payment, Customer. It tracks all the
-details about the Customer, Order, Confirms Order.
+ChooseEat's major goal is to keep track of food products, categories, customers, orders, and confirmations. It keeps track of all food items, payments, and confirmed orders.
+Because the project is entirely administrative, only the administrator has access to add eateries, which helps to limit disciplinary measures. The goal of the project is to create an application software that will minimise the amount of time spent manually handling food items, categories, payments, and customers. It keeps track of all the information about the customer, the order, and the confirmation of the order.
 
-Functionalities provided by ChooseEat are as follows
+The following are some of ChooseEat's features:
 
-  ● Provides the searching facilities based on various factors. Such as Food Item,Customer, Order, Confirm Order.
-  
-  ● Shows the information and description of the Food Item, Customer.
-  
-  ● To increase the efficiency of managing the Food Item, Category.
+Provides search capabilities based on a variety of criteria. Food Item, Customer, Order, Confirm Order, and so forth.
 
-  ● Editing, adding, and updating of Records is improved which results in proper resource management of Food Item data.
+Shows the customer's details and description for the Food Item.
 
+To improve the efficiency of the Food Item, Category management.
+
+The ability to edit, add, and update records has been increased, resulting in better resource management of Food Item data.
 ![Screenshot (1744)](https://user-images.githubusercontent.com/86602285/144219641-ef9b3dc0-88c6-48ab-86fe-49c43e1be5e5.png)
 
 ![Screenshot (1745)](https://user-images.githubusercontent.com/86602285/144220418-97bd9d8d-6270-426a-90c2-e7da91ca911c.png)
